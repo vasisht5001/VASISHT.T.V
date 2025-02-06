@@ -37,7 +37,7 @@ const Contact = () => {
     <div id='contact'  className='flex flex-col md:flex-row items-center justify-center py-12 px-4 md:px-12 lg:px-24 bg-gray-50 bg-gradient-to-t from-white to-yellow-50'>
         {/* left section */}
         <div className='flex flex-1 flex-col px-6 mb-14'>
-            <h2 className='text-2xl md:text-3xl font-semibold mb-4 text-gray-900'>Contact Us</h2>
+            <h2 className='text-2xl md:text-3xl font-semibold mb-4 text-gray-900'>Contact Me</h2>
             <p className='mb-6 text-gray-600'>We are committed to processing the information to contact you and discuss your projects  </p>
 
             <div>
