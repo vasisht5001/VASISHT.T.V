@@ -18,22 +18,22 @@ const Services = () => {
 <div className='bg-gray-50 rounded-lg shadow-lg p-6'>
     <img src={service1} alt="service1" className='w-full h-48 object-cover rounded-lg mb-4' />
     <h3 className='text-2xl font-semibold text-gray-800 mb-2'>Blog application</h3>
-    <p className='text-gray-600 mb-2'>Lorem ipsum dolor sit amet consectetur adipisicing elit.
-     Asperiores porro 
+    <p className='text-gray-600 mb-2'>Unlock the power of seamless blogging with our MERN stack blog application! Crafted for performance and scalability, our solution offers a
+      user-friendly interface, dynamic content management, and robust security. Elevate your online presence with a customized blog that engages your audience and grows with your needs.
            </p>
 </div>
 <div className='bg-gray-50 rounded-lg shadow-lg p-6'>
 <img src={service2} alt="service1" className='w-full h-48 object-cover rounded-lg mb-4' />
     <h3 className='text-2xl font-semibold text-gray-800 mb-2'>portfolio website</h3>
-    <p className='text-gray-600 mb-2'>Lorem ipsum dolor sit amet consectetur adipisicing elit.
-     Asperiores porro 
+    <p className='text-gray-600 mb-2'>"Showcase your skills and achievements with a stunning, custom-built portfolio website. I create sleek, responsive, and professional portfolios
+      that highlight your work, impress clients, and boost your online presence. Let’s build a website that truly represents you!"
            </p>
 </div>
 <div className='bg-gray-50 rounded-lg shadow-lg p-6'>
 <img src={service3} alt="service1" className='w-full h-48 object-cover rounded-lg mb-4' />
     <h3 className='text-2xl font-semibold text-gray-800 mb-2'>ecommerce website</h3>
-    <p className='text-gray-600 mb-2'>Lorem ipsum dolor sit amet consectetur adipisicing elit.
-     Asperiores porro 
+    <p className='text-gray-600 mb-2'>"Launch your online store with a powerful, high-performance MERN stack eCommerce application. I build secure, scalable, and user-friendly
+      platforms with seamless payment integration, intuitive navigation, and a smooth shopping experience. Let’s bring your eCommerce vision to life!"
            </p>
 </div>
 
