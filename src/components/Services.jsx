@@ -38,12 +38,7 @@ const Services = () => {
 </div>
 
 </div>
-<div className='mt-8 text-right'>
- <a className='flex items-center justify-end
-  text-yellow-500 font-semibold hover:text-yellow-400' 
- href="">Explore All Services <FaArrowRight className='ml-2'/>
-  </a>
-</div>
+
 
     </div>
   )
